@@ -1,5 +1,5 @@
 //
-// Created by Pranav on 25-07-2025.
+// Created by Devansh & Pranav
 //
 
 #include "CubeScanner.h"
