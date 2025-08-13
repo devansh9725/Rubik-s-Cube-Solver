@@ -1,5 +1,5 @@
 //
-// Created by Devansh & Pranav
+// Created by Devansh & Amit
 //
 
 #include "CubeScanner.h"
